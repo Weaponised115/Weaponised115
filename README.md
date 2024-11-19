@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Weaponised115
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hello! I'm @Weaponised115
 
-<!---
-Weaponised115/Weaponised115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+🎓 Computer Science Student at Aston University
+🌟 Passionate about SQL, Database Management, PHP, and Automation
+🎸 Guitar player and music enthusiast
+📖 Currently Learning at Aston University
+💻 Advanced programming concepts in Java, Python, and PHP
+📊 Database optimization and MySQL queries
+🌐 Web development and dynamic systems
+
+📬 Reach Me
+📧 Email: SamuelDevinettDev@outlook.com
+💼 LinkedIn: https://www.linkedin.com/in/samuel-devinett-68a8442b3/
+⚡ Fun Fact: I built a mechanical keyboard from scratch, creating the firmware myself.
