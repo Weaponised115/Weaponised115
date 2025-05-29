@@ -10,7 +10,7 @@
 🌐 Web development and dynamic systems  
   
 📬 Reach Me  
-📧 Email: SamuelDevinettDev@gmail.com  
+📧 Email: sam@devinett.com
 💼 LinkedIn: https://www.linkedin.com/in/samuel-devinett/  
 
 ⚡ Fun Fact: I built a mechanical keyboard from scratch, creating the firmware myself.  
