@@ -2,7 +2,7 @@
 
 🚀 About Me  
 🎓 Computer Science Student at Aston University  
-🌟 Passionate about SQL, Database Management, PHP, and Automation  
+🌟 Passionate about Java, Database Management, PHP, and Automation  
 🎸 Guitar player and music enthusiast  
 📖 Currently Learning at Aston University  
 💻 Advanced programming concepts in Java, Python, and PHP  
@@ -11,6 +11,7 @@
   
 📬 Reach Me  
 📧 Email: sam@devinett.com
-💼 LinkedIn: https://www.linkedin.com/in/samuel-devinett/  
+💼 LinkedIn: https://www.linkedin.com/in/samuel-devinett/
+🌐 Website: www.devinett.dev
 
 ⚡ Fun Fact: I built a mechanical keyboard from scratch, creating the firmware myself.  
